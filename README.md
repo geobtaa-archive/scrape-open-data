@@ -1,1 +1,1 @@
-# scrape-open-data
+# scrape metadata from esri open data portals
